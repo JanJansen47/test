@@ -1,8 +1,8 @@
 /*
  ============================================================================
  Name        : test.c
- Author      : 
- Version     :
+ Author      : jan jansen
+ Version     :v22
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
