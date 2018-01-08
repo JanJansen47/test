@@ -1,4 +1,4 @@
 # test
 
-Deze was om de koppleing van Eclipse en Git te testen
+Deze was om de koppeling van Eclipse en Git te testen
 
